@@ -1,0 +1,6 @@
+{
+  "name": "Focus Lock",
+  "description": "Distraction-blocking study productivity app with strict focus mode and schedule planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
